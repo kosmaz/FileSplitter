@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/quit.png</file>
+        <file>images/browse.png</file>
+        <file>images/start.ico</file>
+        <file>images/assemble.jpg</file>
+        <file>images/split.png</file>
+    </qresource>
+</RCC>
